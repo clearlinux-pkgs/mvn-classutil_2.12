@@ -4,7 +4,7 @@
 #
 Name     : mvn-classutil_2.12
 Version  : 1.1.2
-Release  : 1
+Release  : 2
 URL      : https://github.com/bmc/classutil/archive/release-1.1.2.tar.gz
 Source0  : https://github.com/bmc/classutil/archive/release-1.1.2.tar.gz
 Source1  : https://repo1.maven.org/maven2/org/clapper/classutil_2.12/1.1.2/classutil_2.12-1.1.2.jar
